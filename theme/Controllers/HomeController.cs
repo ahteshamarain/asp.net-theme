@@ -19,6 +19,10 @@ namespace theme.Controllers
 		{
 			return View();
 		}
+		public IActionResult charts()
+		{
+			return View();
+		}
 
 		public IActionResult Privacy()
 		{

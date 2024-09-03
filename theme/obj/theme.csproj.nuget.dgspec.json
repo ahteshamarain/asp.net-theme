@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asp\\Documents\\ahtesham\\ahtesham\\theme\\theme\\theme.csproj": {}
+    "C:\\Users\\asp\\Documents\\ahtesham\\ahtesham\\git\\asp.net-theme\\theme\\theme.csproj": {}
   },
   "projects": {
-    "C:\\Users\\asp\\Documents\\ahtesham\\ahtesham\\theme\\theme\\theme.csproj": {
+    "C:\\Users\\asp\\Documents\\ahtesham\\ahtesham\\git\\asp.net-theme\\theme\\theme.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asp\\Documents\\ahtesham\\ahtesham\\theme\\theme\\theme.csproj",
+        "projectUniqueName": "C:\\Users\\asp\\Documents\\ahtesham\\ahtesham\\git\\asp.net-theme\\theme\\theme.csproj",
         "projectName": "theme",
-        "projectPath": "C:\\Users\\asp\\Documents\\ahtesham\\ahtesham\\theme\\theme\\theme.csproj",
+        "projectPath": "C:\\Users\\asp\\Documents\\ahtesham\\ahtesham\\git\\asp.net-theme\\theme\\theme.csproj",
         "packagesPath": "C:\\Users\\asp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asp\\Documents\\ahtesham\\ahtesham\\theme\\theme\\obj\\",
+        "outputPath": "C:\\Users\\asp\\Documents\\ahtesham\\ahtesham\\git\\asp.net-theme\\theme\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
