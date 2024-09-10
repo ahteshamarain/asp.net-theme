@@ -1,0 +1,31 @@
+my way
+
+
+install coreframwork tools
+
+install coreframwork sqlserver   both should be same verion
+
+
+run this command 
+
+
+Scaffold-DbContext "data source=.;initial catalog=Studentdb;user id=sa;password=aptech; TrustServerCertificate=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
+//end
+
+run this command
+add-migration addProductTableIntoDatabase
+
+update-database
+
+
+
+
+            services.AddDbContext<abbContext>();
+
+
+//update
+
+
+
+Scaffold-DbContext "data source=.;initial catalog=ohd;user id=sa;password=aptech;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -force

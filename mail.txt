@@ -1,0 +1,17 @@
+SmtpClient client = new SmtpClient("smtp.gmail.com", 587);
+    client.EnableSsl = true;
+    client.UseDefaultCredentials = false;
+
+    //ptmaptech@gmail.com    "ylkflsuagqvtshad"
+    client.Credentials = new NetworkCredential("ptmaptech@gmail.com", "ylkflsuagqvtshad");
+
+    MailMessage msg = new MailMessage(email, "ptmaptech@gmail.com");
+    msg.Subject = "Feedback";
+    msg.Body = mess  ;
+
+    // msg.Attachments.Add(new Attachment(PathToAttachment));
+    client.Send(msg);
+
+    ViewBag.message = "Mail sent successfully, Role assigned";
+
+    return View();
