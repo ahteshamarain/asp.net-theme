@@ -13,5 +13,7 @@ public partial class Login
 
     public int? Roleid { get; set; }
 
+    public string? Email { get; set; }
+
     public virtual Role? Role { get; set; }
 }

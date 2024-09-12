@@ -31,6 +31,9 @@ public partial class EmpContext : DbContext
 
             entity.ToTable("login");
 
+            entity.Property(e => e.Email)
+                .HasMaxLength(50)
+                .HasColumnName("email");
             entity.Property(e => e.Password)
                 .HasMaxLength(250)
                 .HasColumnName("password");

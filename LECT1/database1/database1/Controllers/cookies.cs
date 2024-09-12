@@ -13,7 +13,7 @@ namespace database1.Controllers
         {
             return View();
         }
-
+        // ADMIN KA KAAM HA ////
         [HttpGet]
         public IActionResult Adduser()
         {
@@ -35,8 +35,8 @@ namespace database1.Controllers
 
         public IActionResult Showuser()
         {
-            var userkadata=db.Logins.ToList();
-            return View(userkadata);
+            var userkadata=db.Logins.Include(p => p.Role);
+            return View(userkadata.ToList());
         }
 
 
@@ -59,7 +59,7 @@ namespace database1.Controllers
                 db.SaveChanges();
 
             }
-            return View();
+            return View("Showuser");
         }
 
 
@@ -84,6 +84,10 @@ namespace database1.Controllers
 
             return View();
         }
+
+
+
+
 
 
 
