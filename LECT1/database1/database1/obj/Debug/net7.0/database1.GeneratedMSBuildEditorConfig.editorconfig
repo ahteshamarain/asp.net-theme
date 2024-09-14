@@ -20,8 +20,20 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29va2llc1xBZGR1c2VyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/sajida/Desktop/LECT1/database1/database1/Views/cookies/Adduser2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29va2llc1xBZGR1c2VyMi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/sajida/Desktop/LECT1/database1/database1/Views/cookies/Deleteuser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29va2llc1xEZWxldGV1c2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sajida/Desktop/LECT1/database1/database1/Views/cookies/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29va2llc1xMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sajida/Desktop/LECT1/database1/database1/Views/cookies/regEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29va2llc1xyZWdFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/sajida/Desktop/LECT1/database1/database1/Views/cookies/Showuser.cshtml]
@@ -52,8 +64,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sajida/Desktop/LECT1/database1/database1/Views/User/Adduser.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxBZGR1c2VyLmNzaHRtbA==
+[C:/Users/sajida/Desktop/LECT1/database1/database1/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/sajida/Desktop/LECT1/database1/database1/Views/_ViewImports.cshtml]
