@@ -9,73 +9,97 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = database1
 build_property.RootNamespace = database1
-build_property.ProjectDir = C:\Users\sajida\Desktop\LECT1\database1\database1\
+build_property.ProjectDir = C:\Users\asp\Documents\ahtesham\ahtesham\git\asp.net-theme\LECT1\database1\database1\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\sajida\Desktop\LECT1\database1\database1
+build_property.MSBuildProjectDirectory = C:\Users\asp\Documents\ahtesham\ahtesham\git\asp.net-theme\LECT1\database1\database1
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/sajida/Desktop/LECT1/database1/database1/Views/cookies/Adduser.cshtml]
+[C:/Users/asp/Documents/ahtesham/ahtesham/git/asp.net-theme/LECT1/database1/database1/Views/cookies/AddCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29va2llc1xBZGRDYXRlZ29yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp/Documents/ahtesham/ahtesham/git/asp.net-theme/LECT1/database1/database1/Views/cookies/addpro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29va2llc1xhZGRwcm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp/Documents/ahtesham/ahtesham/git/asp.net-theme/LECT1/database1/database1/Views/cookies/Adduser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29va2llc1xBZGR1c2VyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sajida/Desktop/LECT1/database1/database1/Views/cookies/Adduser2.cshtml]
+[C:/Users/asp/Documents/ahtesham/ahtesham/git/asp.net-theme/LECT1/database1/database1/Views/cookies/Adduser2.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29va2llc1xBZGR1c2VyMi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sajida/Desktop/LECT1/database1/database1/Views/cookies/Deleteuser.cshtml]
+[C:/Users/asp/Documents/ahtesham/ahtesham/git/asp.net-theme/LECT1/database1/database1/Views/cookies/Deletecat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29va2llc1xEZWxldGVjYXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp/Documents/ahtesham/ahtesham/git/asp.net-theme/LECT1/database1/database1/Views/cookies/Deleteuser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29va2llc1xEZWxldGV1c2VyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sajida/Desktop/LECT1/database1/database1/Views/cookies/Login.cshtml]
+[C:/Users/asp/Documents/ahtesham/ahtesham/git/asp.net-theme/LECT1/database1/database1/Views/cookies/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29va2llc1xMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sajida/Desktop/LECT1/database1/database1/Views/cookies/regEdit.cshtml]
+[C:/Users/asp/Documents/ahtesham/ahtesham/git/asp.net-theme/LECT1/database1/database1/Views/cookies/regEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29va2llc1xyZWdFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sajida/Desktop/LECT1/database1/database1/Views/cookies/Showuser.cshtml]
+[C:/Users/asp/Documents/ahtesham/ahtesham/git/asp.net-theme/LECT1/database1/database1/Views/cookies/ShowCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29va2llc1xTaG93Q2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp/Documents/ahtesham/ahtesham/git/asp.net-theme/LECT1/database1/database1/Views/cookies/Showuser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29va2llc1xTaG93dXNlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sajida/Desktop/LECT1/database1/database1/Views/cookies/Updateuser.cshtml]
+[C:/Users/asp/Documents/ahtesham/ahtesham/git/asp.net-theme/LECT1/database1/database1/Views/cookies/Updatecat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29va2llc1xVcGRhdGVjYXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp/Documents/ahtesham/ahtesham/git/asp.net-theme/LECT1/database1/database1/Views/cookies/Updateuser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29va2llc1xVcGRhdGV1c2VyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sajida/Desktop/LECT1/database1/database1/Views/Home/Index.cshtml]
+[C:/Users/asp/Documents/ahtesham/ahtesham/git/asp.net-theme/LECT1/database1/database1/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sajida/Desktop/LECT1/database1/database1/Views/Home/Privacy.cshtml]
+[C:/Users/asp/Documents/ahtesham/ahtesham/git/asp.net-theme/LECT1/database1/database1/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sajida/Desktop/LECT1/database1/database1/Views/Shared/Error.cshtml]
+[C:/Users/asp/Documents/ahtesham/ahtesham/git/asp.net-theme/LECT1/database1/database1/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sajida/Desktop/LECT1/database1/database1/Views/Shared/_Layout1.cshtml]
+[C:/Users/asp/Documents/ahtesham/ahtesham/git/asp.net-theme/LECT1/database1/database1/Views/Shared/_Layout1.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQxLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sajida/Desktop/LECT1/database1/database1/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/asp/Documents/ahtesham/ahtesham/git/asp.net-theme/LECT1/database1/database1/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sajida/Desktop/LECT1/database1/database1/Views/User/Index.cshtml]
+[C:/Users/asp/Documents/ahtesham/ahtesham/git/asp.net-theme/LECT1/database1/database1/Views/User/Adduser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxBZGR1c2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp/Documents/ahtesham/ahtesham/git/asp.net-theme/LECT1/database1/database1/Views/User/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sajida/Desktop/LECT1/database1/database1/Views/_ViewImports.cshtml]
+[C:/Users/asp/Documents/ahtesham/ahtesham/git/asp.net-theme/LECT1/database1/database1/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sajida/Desktop/LECT1/database1/database1/Views/_ViewStart.cshtml]
+[C:/Users/asp/Documents/ahtesham/ahtesham/git/asp.net-theme/LECT1/database1/database1/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sajida/Desktop/LECT1/database1/database1/Views/Shared/_Layout.cshtml]
+[C:/Users/asp/Documents/ahtesham/ahtesham/git/asp.net-theme/LECT1/database1/database1/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-nt8yvmww3b

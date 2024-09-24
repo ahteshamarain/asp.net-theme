@@ -15,7 +15,11 @@ public partial class EmpContext : DbContext
     {
     }
 
+    public virtual DbSet<Category> Categories { get; set; }
+
     public virtual DbSet<Login> Logins { get; set; }
+
+    public virtual DbSet<Product> Products { get; set; }
 
     public virtual DbSet<Role> Roles { get; set; }
 
@@ -25,6 +29,21 @@ public partial class EmpContext : DbContext
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
+        modelBuilder.Entity<Category>(entity =>
+        {
+            entity.HasKey(e => e.Id).HasName("PK__category__3214EC076A74EEA3");
+
+            entity.ToTable("category");
+
+            entity.Property(e => e.Catname)
+                .HasMaxLength(50)
+                .HasColumnName("catname");
+            entity.Property(e => e.Description)
+                .HasMaxLength(10)
+                .IsFixedLength()
+                .HasColumnName("description");
+        });
+
         modelBuilder.Entity<Login>(entity =>
         {
             entity.HasKey(e => e.Id).HasName("PK__login__3214EC07CE89C6DF");
@@ -45,6 +64,29 @@ public partial class EmpContext : DbContext
             entity.HasOne(d => d.Role).WithMany(p => p.Logins)
                 .HasForeignKey(d => d.Roleid)
                 .HasConstraintName("FK_login_ToTable");
+        });
+
+        modelBuilder.Entity<Product>(entity =>
+        {
+            entity.HasKey(e => e.Id).HasName("PK__Product__3214EC075C91A4F2");
+
+            entity.ToTable("Product");
+
+            entity.Property(e => e.Id).ValueGeneratedNever();
+            entity.Property(e => e.Catid).HasColumnName("catid");
+            entity.Property(e => e.Prodes)
+                .HasMaxLength(50)
+                .HasColumnName("prodes");
+            entity.Property(e => e.Proimage)
+                .HasMaxLength(50)
+                .HasColumnName("proimage");
+            entity.Property(e => e.Proname)
+                .HasMaxLength(50)
+                .HasColumnName("proname");
+
+            entity.HasOne(d => d.Cat).WithMany(p => p.Products)
+                .HasForeignKey(d => d.Catid)
+                .HasConstraintName("FK_Product_ToTable");
         });
 
         modelBuilder.Entity<Role>(entity =>

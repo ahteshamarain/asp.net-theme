@@ -259,7 +259,96 @@ namespace database1.Controllers
         }
 
 
+        [HttpGet]
+        public IActionResult AddCategory()
+        {
+            //ViewBag.Roleid = new SelectList(db.Roles, "Id", "Rname");
+            return View();
+        }
+        [HttpPost]
+        public IActionResult AddCategory(Category cat)
+        {
+            if (ModelState.IsValid)
+            {
+                db.Categories.Add(cat);
+                db.SaveChanges();
 
+            }
+
+            return View();
+        }
+
+        public IActionResult ShowCategory()
+        {
+            var cdata = db.Categories.ToList();
+            return View(cdata);
+        }
+
+
+        [HttpGet]
+        public IActionResult Deletecat(int Id)
+        {
+
+            var deletekadata = db.Categories.Find(Id);
+            return View(deletekadata);
+        }
+
+        [HttpPost]
+        public IActionResult Deletecat(Category cat)
+        {
+
+
+                db.Remove(cat);
+                db.SaveChanges();
+                return View();
+            
+           
+        }
+
+        [HttpGet]
+        public IActionResult Updatecat(int Id)
+        {
+            //ViewBag.Roleid = new SelectList(db.Roles, "Id", "Rname");
+            var deletekadata = db.Categories.Find(Id);
+            return View(deletekadata);
+        }
+        [HttpPost]
+        public IActionResult Updatecat(Category cat)
+        {
+            if (ModelState.IsValid)
+            {
+                db.Categories.Update(cat);
+                db.SaveChanges();
+
+            }
+
+            return View();
+        }
+
+        [HttpGet]
+        public IActionResult addpro()
+        {
+            ViewData["Catid"] = new SelectList(db.Categories, "Id", "Catname");
+
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult addpro(Product pr , IFormFile file)
+        {
+      var imageName = Path.GetFileName(file.FileName);
+        string imagePath = Path.Combine(HttpContext.Request.PathBase.Value, "wwwroot/Image/");
+            string imagevalue = Path.Combine(imagePath, imageName);
+            using (var stream = new FileStream(imagevalue, FileMode.create))
+            {
+                file.CopyTo(stream);
+            }
+            var dbimage = Path.Combine("/Image/", imageName);
+            pr.Picture = dbimage;
+            db.Products.Add(pr);
+            db.SaveChanges();
+            return View();
+        }
 
 
 
