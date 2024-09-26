@@ -13,8 +13,7 @@ public partial class Product
 
     public string? Prodes { get; set; }
 
-    public int? Catid { get; set; }
+    public int Catid { get; set; }
 
-    public virtual Category? Cat { get; set; }
-    public string Picture { get; internal set; }
+    public virtual Category Cat { get; set; } = null!;
 }

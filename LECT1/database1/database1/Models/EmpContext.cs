@@ -68,11 +68,10 @@ public partial class EmpContext : DbContext
 
         modelBuilder.Entity<Product>(entity =>
         {
-            entity.HasKey(e => e.Id).HasName("PK__Product__3214EC075C91A4F2");
+            entity.HasKey(e => e.Id).HasName("PK__tmp_ms_x__3214EC07A67475F1");
 
             entity.ToTable("Product");
 
-            entity.Property(e => e.Id).ValueGeneratedNever();
             entity.Property(e => e.Catid).HasColumnName("catid");
             entity.Property(e => e.Prodes)
                 .HasMaxLength(50)
@@ -86,6 +85,7 @@ public partial class EmpContext : DbContext
 
             entity.HasOne(d => d.Cat).WithMany(p => p.Products)
                 .HasForeignKey(d => d.Catid)
+                .OnDelete(DeleteBehavior.ClientSetNull)
                 .HasConstraintName("FK_Product_ToTable");
         });
 

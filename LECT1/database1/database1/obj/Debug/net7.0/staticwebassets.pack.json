@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\database1.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\asp\\Documents\\ahtesham\\ahtesham\\git\\asp.net-theme\\LECT1\\database1\\database1\\wwwroot\\Image\\1625907108.webp",
+      "PackagePath": "staticwebassets\\Image\\1625907108.webp"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\ahtesham\\ahtesham\\git\\asp.net-theme\\LECT1\\database1\\database1\\wwwroot\\Image\\pic1.jpeg",
+      "PackagePath": "staticwebassets\\Image\\pic1.jpeg"
+    },
+    {
       "Id": "C:\\Users\\asp\\Documents\\ahtesham\\ahtesham\\git\\asp.net-theme\\LECT1\\database1\\database1\\wwwroot\\USER\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\USER\\css\\bootstrap.min.css"
     },

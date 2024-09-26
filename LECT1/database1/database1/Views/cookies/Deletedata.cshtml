@@ -1,0 +1,46 @@
+﻿@model database1.Models.Product
+
+@{
+    ViewData["Title"] = "Deletedata";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Deletedata</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Product</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Proname)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Proname)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Proimage)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Proimage)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Prodes)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Prodes)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Cat)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Cat.Id)
+        </dd>
+    </dl>
+    
+    <form asp-action="Deletedata">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>

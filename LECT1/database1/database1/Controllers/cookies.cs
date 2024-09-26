@@ -334,21 +334,80 @@ namespace database1.Controllers
         }
 
         [HttpPost]
-        public IActionResult addpro(Product pr , IFormFile file)
+        public IActionResult addpro(Product pr, IFormFile file)
         {
-      var imageName = Path.GetFileName(file.FileName);
-        string imagePath = Path.Combine(HttpContext.Request.PathBase.Value, "wwwroot/Image/");
+            var imageName = Path.GetFileName(file.FileName);
+            string imagePath = Path.Combine(HttpContext.Request.PathBase.Value, "wwwroot/Image/");
             string imagevalue = Path.Combine(imagePath, imageName);
-            using (var stream = new FileStream(imagevalue, FileMode.create))
+            using (var stream = new FileStream(imagevalue, FileMode.Create))
             {
                 file.CopyTo(stream);
             }
             var dbimage = Path.Combine("/Image/", imageName);
-            pr.Picture = dbimage;
+            pr.Proimage = dbimage;
             db.Products.Add(pr);
             db.SaveChanges();
             return View();
         }
+
+        public IActionResult Showdata()
+        {
+            var cdata = db.Products.Include(p => p.Cat);
+            return View(cdata.ToList());
+        }
+
+
+
+        [HttpGet]
+        public IActionResult Deletedata(Product pr)
+        {
+
+            db.Remove(pr);
+            db.SaveChanges();
+            return RedirectToAction("Showdata");
+        }
+
+
+
+        [HttpGet]
+        public IActionResult Updatepro(int id)
+        {
+            ViewData["Catid"] = new SelectList(db.Categories, "Id", "Catname");
+            var data = db.Products.Find(id);
+
+            return View(data);
+        }
+
+
+        [HttpPost]
+        public IActionResult Updatepro(Product pr, IFormFile file, string hid)
+        {
+            if (ModelState.IsValid) { 
+                if(file!= null && file.Length > 0) { 
+            var imageName = Path.GetFileName(file.FileName);
+            string imagePath = Path.Combine(HttpContext.Request.PathBase.Value, "wwwroot/Image/");
+            string imagevalue = Path.Combine(imagePath, imageName);
+            using (var stream = new FileStream(imagevalue, FileMode.Create))
+            {
+                file.CopyTo(stream);
+            }
+            var dbimage = Path.Combine("/Image/", imageName);
+            pr.Proimage = dbimage;
+            db.Products.Update(pr);
+            db.SaveChanges();
+                }
+            }
+            else
+            {
+                pr.Proimage = hid;
+                db.Products.Update(pr);
+                db.SaveChanges();
+            }
+            return RedirectToAction("Showdata");
+
+        }
+
+
 
 
 

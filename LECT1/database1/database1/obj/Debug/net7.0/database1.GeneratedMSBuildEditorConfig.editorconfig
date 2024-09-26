@@ -36,6 +36,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29va2llc1xEZWxldGVjYXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/asp/Documents/ahtesham/ahtesham/git/asp.net-theme/LECT1/database1/database1/Views/cookies/Deletedata.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29va2llc1xEZWxldGVkYXRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/asp/Documents/ahtesham/ahtesham/git/asp.net-theme/LECT1/database1/database1/Views/cookies/Deleteuser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29va2llc1xEZWxldGV1c2VyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -52,12 +56,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29va2llc1xTaG93Q2F0ZWdvcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/asp/Documents/ahtesham/ahtesham/git/asp.net-theme/LECT1/database1/database1/Views/cookies/Showdata.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29va2llc1xTaG93ZGF0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/asp/Documents/ahtesham/ahtesham/git/asp.net-theme/LECT1/database1/database1/Views/cookies/Showuser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29va2llc1xTaG93dXNlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/asp/Documents/ahtesham/ahtesham/git/asp.net-theme/LECT1/database1/database1/Views/cookies/Updatecat.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29va2llc1xVcGRhdGVjYXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp/Documents/ahtesham/ahtesham/git/asp.net-theme/LECT1/database1/database1/Views/cookies/Updatepro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29va2llc1xVcGRhdGVwcm8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/asp/Documents/ahtesham/ahtesham/git/asp.net-theme/LECT1/database1/database1/Views/cookies/Updateuser.cshtml]
