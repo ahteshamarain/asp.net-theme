@@ -1,0 +1,274 @@
+﻿@*@model IEnumerable<dashboard.Models.Product>*@
+@model List<Product>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@*<div class="text-center">
+        <h1 class="display-4">Welcome</h1>
+        <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    </div>*@
+<!-- Custom styles for this template -->
+
+<br />
+<br />
+<br />
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Theme Made By www.w3schools.com - No Copyright -->
+    @*<title>Bootstrap Theme The Band</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>*@
+
+
+
+    <!-- Basic -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>@ViewData["Title"] - dashboard</title>
+    <!-- Site Metas -->
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <link rel="shortcut icon" href="~/images/favicon.png" type="image/x-icon">
+
+    <title>
+        Giftos
+    </title>
+
+    <!-- slider stylesheet -->
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
+
+    <!-- bootstrap core css -->
+    <link rel="stylesheet" type="text/css" href="~/css/bootstrap.css" />
+
+    <!-- Custom styles for this template -->
+    <link href="~/css/style.css" rel="stylesheet" />
+    <!-- responsive style -->
+    <link href="~/css/responsive.css" rel="stylesheet" />
+
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        .myDiv {
+            border-style: solid;
+            border-color: #AA336A;
+            background-color: lightpink;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <hr style="height:5px;background-color:black">
+
+    <div class="myDiv">
+        <h2>New Arrival Coming Soon.....</h2>
+        <p>"Patience Is Bitter, But Its Fruit Is Sweet."</p>
+    </div>
+
+
+
+    <hr style="background-color:black; height:5px" />
+
+    @*<style>
+            * {
+                box-sizing: border-box;
+            }
+
+            .column {
+                float: left;
+                width: 33.33%;
+                padding: 5px;
+            }
+
+            /* Clearfix (clear floats) */
+            .row::after {
+                content: "";
+                clear: both;
+                display: table;
+            }
+        </style>*@
+
+<br /><br />
+    <form asp-action="Search">
+        <input type="text" name="xyz" />
+        <input type="submit" class="btn btn-danger" value="Click Me for Search" />
+    </form>
+
+    <br /><br /><br /><br /><br />
+    <div class="row">
+
+        @foreach (var item in Model)
+        {
+            <section class="light">
+                <div class="container">
+                    @*<h2>Favorite Cars</h2>*@
+                    <div class="cars">
+                        <div class="car">
+                            <input type="hidden" value="@item.Id" />
+                            <p><strong> <b><i>Name : </i></b>  @item.Namee</strong></p><br>
+                            <img src="@Url.Content(item.Picture)" alt="Random Name" width="155" height="155">
+
+                            <p><b><i>Price : </i></b> @item.Price</p>
+
+                            <p><b><i>Descp : </i></b> @item.Descp</p>
+
+
+
+                            <a asp-action="Detailuser" asp-controller="Admin" asp-route-id="@item.Id" class="btn btn-danger">Read More</a>
+
+
+
+                        </div>
+
+
+                    </div>
+                </div>
+            </section>
+        }
+    </div>
+
+    <style>
+        /*  *,
+            *::before,
+            *::after {
+                box-sizing: border-box;
+            }
+
+            * {
+                font: inherit;
+                margin: 0;
+            }*/
+
+
+
+        img {
+            max-width: 100%;
+            display: block;
+        }
+
+        ul[role="list"] {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+        }
+
+        section {
+            padding-block: 2rem;
+        }
+
+       
+
+        h2 {
+            margin-block: 1em;
+            font-size: 2em;
+            font-weight: 700;
+            color: #fff;
+        }
+
+        .container {
+            width: min(100% - 2rem, 60rem);
+            margin-inline: auto;
+            
+        }
+
+        .cars {
+            display: grid;
+            gap: 2.5rem 1.5rem;
+            grid-template-columns: repeat(auto-fill, minmax(min(350px, 100%), 1fr));
+        }
+
+        .car {
+            display: grid;
+            gap: 0.75em;
+        }
+
+            /*.img-wrapper {
+                position: relative;
+            }*/
+
+            .car img {
+                width: 100%;
+                aspect-ratio: 16 / 10;
+                object-fit: cover;
+                border-radius: 0.25rem;
+            }
+
+        .img-wrapper::before {
+            content: "";
+            position: absolute;
+            inset: 0;
+            background-color: rgb(0, 0, 0, 0.7);
+            opacity: 0;
+            transition: opacity 250ms ease;
+        }
+
+        .img-wrapper:hover::before {
+            opacity: 1;
+        }
+
+        .img-wrapper a {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            display: block;
+            border-radius: 0.25em;
+            padding: 0.5em 1em;
+            background-color: hsl(219, 30%, 12%, 0.8);
+            color: #fff;
+            font-size: 1.125em;
+            font-weight: 500;
+            text-decoration: none;
+            letter-spacing: 0.05em;
+            text-transform: uppercase;
+            opacity: 0;
+            transition: opacity 250ms ease;
+        }
+
+        .img-wrapper:hover > a {
+            opacity: 1;
+        }
+
+        .car h3 {
+            font-size: 1.4em;
+            font-weight: 700;
+            letter-spacing: 0.02em;
+            text-transform: uppercase;
+            color: #fff;
+        }
+
+        .car ul {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1em;
+        }
+
+        .car li {
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+    </style>
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+

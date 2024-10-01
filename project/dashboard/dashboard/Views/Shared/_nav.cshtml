@@ -1,0 +1,170 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@using System.Security.Claims;
+
+
+
+            @{
+                dashboard.Models.mydbContext db = new dashboard.Models.mydbContext();
+            }
+            @*<nav class="navbar navbar-inverse">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="#">WebSiteName</a>
+                </div>
+                <ul class="nav navbar-nav">
+                    <li class="active"><a href="#">Home</a></li>
+
+                    @foreach (var item in db.Catgs.ToList())
+                    {
+                        <li><a asp-action="showproducts" asp-controller="User" asp-route-id="@item.Id"> @Html.DisplayFor(modelItem => item.Namee)</a></li>
+                    }
+
+
+                    @{
+
+                        int counter = 0;
+                        if (db.Carts != null)
+                        {
+                            @User.FindFirst(ClaimTypes.Sid)?.Value
+                            string abc = User.FindFirst(ClaimTypes.Sid)?.Value;
+                            int aab = Convert.ToInt32(abc);
+                            var ab = db.Carts.Where(x => x.Userid.Equals(aab));
+
+                            foreach (var item in ab.ToList())
+                            {
+
+
+
+                                counter++;
+                            }
+                        }
+                    }
+                    <a asp-action="cartshow" asp-controller="User"> <i><h2 class="fa fa-shopping-cart " style="color:#fff">@counter</h2></i></a>
+
+
+                </ul>
+            </div>
+        </nav>
+                
+                *@
+
+
+
+
+
+            <nav class="navbar navbar-expand-lg custom_nav-container ">
+                <a class="navbar-brand" href="index.html">
+                    <span>
+                        JEWELLERY
+                    </span>
+                </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class=""></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav">
+                        <li class="nav-item active">
+                            <a class="nav-link" asp-action="Index" asp-controller="Home" >Home <span class="sr-only">(current)</span></a>
+                        </li>
+
+
+                        @foreach (var item in db.Catgs.ToList())
+                        {
+                            <li><a class="nav-link" asp-action="showproducts" asp-controller="User" asp-route-id="@item.Id"> @Html.DisplayFor(modelItem => item.Namee)</a></li>
+                        }
+
+
+                        @{
+
+                            int counter = 0;
+                            if (db.Carts != null)
+                            {
+
+                                string abc = User.FindFirst(ClaimTypes.Sid)?.Value;
+                                int aab = Convert.ToInt32(abc);
+
+
+                                var ab = db.Carts.Where(x => x.Userid.Equals(aab));
+
+                                foreach (var item in ab.ToList())
+                                {
+
+
+                                    counter++;
+                                }
+                            }
+
+
+
+
+                        }
+
+
+
+                    </ul>
+
+
+
+                    <ul class="navbar-nav  ">
+                        
+                   
+
+                    
+                    </ul>
+
+                    <div class="user_option">
+
+                        @if (User.Identity.Name == null)
+                        {
+
+                            <a asp-controller="cookies" asp-action="Login">
+                                <i class="fa fa-user" aria-hidden="true"></i>
+                                <span>
+                                    Login
+                                </span>
+
+                            </a>
+
+
+                            <a asp-controller="cookies" asp-action="registration">
+                                <i class="fa fa-user" aria-hidden="true"></i>
+                                <span>
+                                    Registrations
+                                </span>
+
+                            </a>
+                        }
+                        else
+                        {
+
+                            <span>
+                                <a asp-action="profile" asp-controller="User"> <i class="fa fa-user" aria-hidden="true"></i>  @User.Identity.Name</a>
+                            </span>
+                            <a class="nav-link" asp-controller="cookies" asp-action="Logout">
+                                <i class="fa fa-user" aria-hidden="true"></i>
+                                <span>
+                                    Logout
+                                </span>
+
+                            </a>
+
+
+
+                            <a class="nav-link" asp-controller="cookies" asp-action="changepassword" minlength="3">ChangePassword</a> 
+
+
+                        }
+
+
+                        <a href="">
+                            <a asp-action="cartshow" asp-controller="User"> <i><h2 class="fa fa-shopping-cart " style="color:#000000">@counter</h2></i></a>
+                        </a>
+
+                    </div>
+                </div>
+            </nav>

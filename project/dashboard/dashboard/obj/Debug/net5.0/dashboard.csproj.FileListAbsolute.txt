@@ -1,0 +1,1414 @@
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\appsettings.json
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\dashboard.exe
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\dashboard.deps.json
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\dashboard.runtimeconfig.json
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\dashboard.runtimeconfig.dev.json
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\dashboard.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\ref\dashboard.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\dashboard.pdb
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\dashboard.Views.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\dashboard.Views.pdb
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\Humanizer.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\obj\Debug\net5.0\dashboard.csproj.AssemblyReference.cache
+C:\Users\sajida\source\repos\dashboard\dashboard\obj\Debug\net5.0\dashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sajida\source\repos\dashboard\dashboard\obj\Debug\net5.0\dashboard.AssemblyInfoInputs.cache
+C:\Users\sajida\source\repos\dashboard\dashboard\obj\Debug\net5.0\dashboard.AssemblyInfo.cs
+C:\Users\sajida\source\repos\dashboard\dashboard\obj\Debug\net5.0\dashboard.csproj.CoreCompileInputs.cache
+C:\Users\sajida\source\repos\dashboard\dashboard\obj\Debug\net5.0\dashboard.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sajida\source\repos\dashboard\dashboard\obj\Debug\net5.0\dashboard.RazorAssemblyInfo.cache
+C:\Users\sajida\source\repos\dashboard\dashboard\obj\Debug\net5.0\dashboard.RazorAssemblyInfo.cs
+C:\Users\sajida\source\repos\dashboard\dashboard\obj\Debug\net5.0\staticwebassets\dashboard.StaticWebAssets.Manifest.cache
+C:\Users\sajida\source\repos\dashboard\dashboard\obj\Debug\net5.0\staticwebassets\dashboard.StaticWebAssets.xml
+C:\Users\sajida\source\repos\dashboard\dashboard\obj\Debug\net5.0\scopedcss\bundle\dashboard.styles.css
+C:\Users\sajida\source\repos\dashboard\dashboard\obj\Debug\net5.0\dashboard.TagHelpers.input.cache
+C:\Users\sajida\source\repos\dashboard\dashboard\obj\Debug\net5.0\dashboard.TagHelpers.output.cache
+C:\Users\sajida\source\repos\dashboard\dashboard\obj\Debug\net5.0\dashboard.RazorCoreGenerate.cache
+C:\Users\sajida\source\repos\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\sajida\source\repos\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\sajida\source\repos\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\sajida\source\repos\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\sajida\source\repos\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\sajida\source\repos\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\sajida\source\repos\dashboard\dashboard\obj\Debug\net5.0\dashboard.RazorTargetAssemblyInfo.cache
+C:\Users\sajida\source\repos\dashboard\dashboard\obj\Debug\net5.0\dashboard.RazorTargetAssemblyInfo.cs
+C:\Users\sajida\source\repos\dashboard\dashboard\obj\Debug\net5.0\dashboard.Views.pdb
+C:\Users\sajida\source\repos\dashboard\dashboard\obj\Debug\net5.0\dashboard.csproj.CopyComplete
+C:\Users\sajida\source\repos\dashboard\dashboard\obj\Debug\net5.0\dashboard.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\obj\Debug\net5.0\ref\dashboard.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\obj\Debug\net5.0\dashboard.pdb
+C:\Users\sajida\source\repos\dashboard\dashboard\obj\Debug\net5.0\dashboard.genruntimeconfig.cache
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\sajida\source\repos\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Shared\_Layout1.cshtml.g.cs
+C:\Users\sajida\source\repos\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\sajida\source\repos\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\addvisitors.cshtml.g.cs
+C:\Users\sajida\source\repos\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\Edit.cshtml.g.cs
+C:\Users\sajida\source\repos\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\Delete.cshtml.g.cs
+C:\Users\sajida\source\repos\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\Detail.cshtml.g.cs
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sajida\source\repos\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\addpro.cshtml.g.cs
+C:\Users\sajida\source\repos\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\product.cshtml.g.cs
+C:\Users\sajida\source\repos\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\proDelete.cshtml.g.cs
+C:\Users\sajida\source\repos\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\proupdate.cshtml.g.cs
+C:\Users\sajida\source\repos\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Shared\Index.cshtml.g.cs
+C:\Users\sajida\source\repos\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Shared\_nav.cshtml.g.cs
+C:\Users\sajida\source\repos\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\sajida\source\repos\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\User\showproducts.cshtml.g.cs
+C:\Users\sajida\source\repos\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\User\mypro.cshtml.g.cs
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\dashboard.csproj.AssemblyReference.cache
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\dashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\dashboard.AssemblyInfoInputs.cache
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\dashboard.AssemblyInfo.cs
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\dashboard.csproj.CoreCompileInputs.cache
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\dashboard.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\dashboard.RazorAssemblyInfo.cache
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\dashboard.RazorAssemblyInfo.cs
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\staticwebassets\dashboard.StaticWebAssets.Manifest.cache
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\staticwebassets\dashboard.StaticWebAssets.xml
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\scopedcss\bundle\dashboard.styles.css
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\dashboard.TagHelpers.input.cache
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\dashboard.TagHelpers.output.cache
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\dashboard.RazorCoreGenerate.cache
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\addpro.cshtml.g.cs
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\addvisitors.cshtml.g.cs
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\Delete.cshtml.g.cs
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\Detail.cshtml.g.cs
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\Edit.cshtml.g.cs
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\proDelete.cshtml.g.cs
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\product.cshtml.g.cs
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\proupdate.cshtml.g.cs
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\cookies\Login.cshtml.g.cs
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\cookies\registration.cshtml.g.cs
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Shared\Index.cshtml.g.cs
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Shared\_Layout1.cshtml.g.cs
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Shared\_nav.cshtml.g.cs
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\User\cartshow.cshtml.g.cs
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\User\mypro.cshtml.g.cs
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\User\showproducts.cshtml.g.cs
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\dashboard.RazorTargetAssemblyInfo.cache
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\dashboard.RazorTargetAssemblyInfo.cs
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\dashboard.dll
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\ref\dashboard.dll
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\dashboard.pdb
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\appsettings.json
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\dashboard.exe
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\dashboard.deps.json
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\dashboard.runtimeconfig.json
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\dashboard.runtimeconfig.dev.json
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\dashboard.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\ref\dashboard.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\dashboard.pdb
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\dashboard.Views.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\dashboard.Views.pdb
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\Humanizer.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sajida\Documents\dashboard\dashboard\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\dashboard.Views.pdb
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\dashboard.csproj.CopyComplete
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\dashboard.genruntimeconfig.cache
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\cookies\Logout.cshtml.g.cs
+C:\Users\sajida\Documents\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\User\checkout.cshtml.g.cs
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\appsettings.json
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\dashboard.exe
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\dashboard.deps.json
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\dashboard.runtimeconfig.json
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\dashboard.runtimeconfig.dev.json
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\dashboard.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\ref\dashboard.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\dashboard.pdb
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\dashboard.Views.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\dashboard.Views.pdb
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\Humanizer.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\asp\Desktop\dashboard\dashboard\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\dashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\dashboard.AssemblyInfoInputs.cache
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\dashboard.AssemblyInfo.cs
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\dashboard.csproj.CoreCompileInputs.cache
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\dashboard.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\dashboard.RazorAssemblyInfo.cache
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\dashboard.RazorAssemblyInfo.cs
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\staticwebassets\dashboard.StaticWebAssets.Manifest.cache
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\staticwebassets\dashboard.StaticWebAssets.xml
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\scopedcss\bundle\dashboard.styles.css
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\dashboard.TagHelpers.input.cache
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\dashboard.TagHelpers.output.cache
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\dashboard.RazorCoreGenerate.cache
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\addpro.cshtml.g.cs
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\addvisitors.cshtml.g.cs
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\Delete.cshtml.g.cs
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\Detail.cshtml.g.cs
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\Edit.cshtml.g.cs
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\proDelete.cshtml.g.cs
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\product.cshtml.g.cs
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\proupdate.cshtml.g.cs
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\cookies\Login.cshtml.g.cs
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\cookies\Logout.cshtml.g.cs
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\cookies\registration.cshtml.g.cs
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Shared\Index.cshtml.g.cs
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Shared\_Layout1.cshtml.g.cs
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Shared\_nav.cshtml.g.cs
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\User\cartshow.cshtml.g.cs
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\User\checkout.cshtml.g.cs
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\User\mypro.cshtml.g.cs
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\User\showproducts.cshtml.g.cs
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\dashboard.RazorTargetAssemblyInfo.cache
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\dashboard.RazorTargetAssemblyInfo.cs
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\dashboard.Views.pdb
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\dashboard.csproj.CopyComplete
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\dashboard.dll
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\ref\dashboard.dll
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\dashboard.pdb
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\dashboard.genruntimeconfig.cache
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Roles\Create.cshtml.g.cs
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Roles\Delete.cshtml.g.cs
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Roles\Details.cshtml.g.cs
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Roles\Edit.cshtml.g.cs
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Roles\Index.cshtml.g.cs
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Catgs\Create.cshtml.g.cs
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Catgs\Delete.cshtml.g.cs
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Catgs\Details.cshtml.g.cs
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Catgs\Edit.cshtml.g.cs
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Catgs\Index.cshtml.g.cs
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\Detailuser.cshtml.g.cs
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\ShowUser.cshtml.g.cs
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Home\contact.cshtml.g.cs
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\appsettings.json
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\dashboard.exe
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\dashboard.deps.json
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\dashboard.runtimeconfig.json
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\dashboard.runtimeconfig.dev.json
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\dashboard.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\ref\dashboard.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\dashboard.pdb
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\dashboard.Views.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\dashboard.Views.pdb
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Humanizer.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.csproj.AssemblyReference.cache
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.AssemblyInfoInputs.cache
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.AssemblyInfo.cs
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.csproj.CoreCompileInputs.cache
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.RazorAssemblyInfo.cache
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.RazorAssemblyInfo.cs
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\staticwebassets\dashboard.StaticWebAssets.Manifest.cache
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\staticwebassets\dashboard.StaticWebAssets.xml
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\scopedcss\bundle\dashboard.styles.css
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.TagHelpers.input.cache
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.TagHelpers.output.cache
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.RazorCoreGenerate.cache
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\addpro.cshtml.g.cs
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\addvisitors.cshtml.g.cs
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\Delete.cshtml.g.cs
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\Detail.cshtml.g.cs
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\Detailuser.cshtml.g.cs
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\Edit.cshtml.g.cs
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\proDelete.cshtml.g.cs
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\product.cshtml.g.cs
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\proupdate.cshtml.g.cs
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\ShowUser.cshtml.g.cs
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Catgs\Create.cshtml.g.cs
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Catgs\Delete.cshtml.g.cs
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Catgs\Details.cshtml.g.cs
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Catgs\Edit.cshtml.g.cs
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Catgs\Index.cshtml.g.cs
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\cookies\Login.cshtml.g.cs
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\cookies\Logout.cshtml.g.cs
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\cookies\registration.cshtml.g.cs
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Home\contact.cshtml.g.cs
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Roles\Create.cshtml.g.cs
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Roles\Delete.cshtml.g.cs
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Roles\Details.cshtml.g.cs
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Roles\Edit.cshtml.g.cs
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Roles\Index.cshtml.g.cs
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Shared\Index.cshtml.g.cs
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Shared\_Layout1.cshtml.g.cs
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Shared\_nav.cshtml.g.cs
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\User\cartshow.cshtml.g.cs
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\User\checkout.cshtml.g.cs
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\User\mypro.cshtml.g.cs
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\User\showproducts.cshtml.g.cs
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.RazorTargetAssemblyInfo.cache
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.RazorTargetAssemblyInfo.cs
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.Views.pdb
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.csproj.CopyComplete
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\ref\dashboard.dll
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.pdb
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.genruntimeconfig.cache
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\User\profile.cshtml.g.cs
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\order.cshtml.g.cs
+C:\Users\asp\Desktop\4 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\orderDetail.cshtml.g.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\appsettings.json
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\dashboard.exe
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\dashboard.deps.json
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\dashboard.runtimeconfig.json
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\dashboard.runtimeconfig.dev.json
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\dashboard.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\ref\dashboard.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\dashboard.pdb
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\dashboard.Views.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\dashboard.Views.pdb
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Humanizer.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.csproj.AssemblyReference.cache
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.AssemblyInfoInputs.cache
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.AssemblyInfo.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.csproj.CoreCompileInputs.cache
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.RazorAssemblyInfo.cache
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.RazorAssemblyInfo.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\staticwebassets\dashboard.StaticWebAssets.Manifest.cache
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\staticwebassets\dashboard.StaticWebAssets.xml
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\scopedcss\bundle\dashboard.styles.css
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.TagHelpers.input.cache
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.TagHelpers.output.cache
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.RazorCoreGenerate.cache
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\addpro.cshtml.g.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\addvisitors.cshtml.g.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\Delete.cshtml.g.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\Detail.cshtml.g.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\Detailuser.cshtml.g.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\Edit.cshtml.g.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\order.cshtml.g.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\orderDetail.cshtml.g.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\proDelete.cshtml.g.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\product.cshtml.g.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\proupdate.cshtml.g.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\ShowUser.cshtml.g.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Catgs\Create.cshtml.g.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Catgs\Delete.cshtml.g.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Catgs\Details.cshtml.g.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Catgs\Edit.cshtml.g.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Catgs\Index.cshtml.g.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\cookies\Login.cshtml.g.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\cookies\Logout.cshtml.g.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\cookies\registration.cshtml.g.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Home\contact.cshtml.g.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Roles\Create.cshtml.g.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Roles\Delete.cshtml.g.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Roles\Details.cshtml.g.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Roles\Edit.cshtml.g.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Roles\Index.cshtml.g.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Shared\Index.cshtml.g.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Shared\_Layout1.cshtml.g.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Shared\_nav.cshtml.g.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\User\cartshow.cshtml.g.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\User\checkout.cshtml.g.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\User\mypro.cshtml.g.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\User\profile.cshtml.g.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\User\showproducts.cshtml.g.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.RazorTargetAssemblyInfo.cache
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.RazorTargetAssemblyInfo.cs
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.Views.pdb
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.csproj.CopyComplete
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\ref\dashboard.dll
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.pdb
+C:\Users\asp\Desktop\7 AUG 2023 WORKING ON E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.genruntimeconfig.cache
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\dashboard.csproj.AssemblyReference.cache
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\order.cshtml.g.cs
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\orderDetail.cshtml.g.cs
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\User\profile.cshtml.g.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\appsettings.json
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\dashboard.exe
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\dashboard.deps.json
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\dashboard.runtimeconfig.json
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\dashboard.runtimeconfig.dev.json
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\dashboard.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\ref\dashboard.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\dashboard.pdb
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\dashboard.Views.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\dashboard.Views.pdb
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\Humanizer.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\dashboard.csproj.AssemblyReference.cache
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\dashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\dashboard.AssemblyInfoInputs.cache
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\dashboard.AssemblyInfo.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\dashboard.csproj.CoreCompileInputs.cache
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\dashboard.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\dashboard.RazorAssemblyInfo.cache
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\dashboard.RazorAssemblyInfo.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\staticwebassets\dashboard.StaticWebAssets.Manifest.cache
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\staticwebassets\dashboard.StaticWebAssets.xml
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\scopedcss\bundle\dashboard.styles.css
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\dashboard.TagHelpers.input.cache
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\dashboard.TagHelpers.output.cache
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\dashboard.RazorCoreGenerate.cache
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\addpro.cshtml.g.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\addvisitors.cshtml.g.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\Delete.cshtml.g.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\Detail.cshtml.g.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\Detailuser.cshtml.g.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\Edit.cshtml.g.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\order.cshtml.g.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\orderDetail.cshtml.g.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\proDelete.cshtml.g.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\product.cshtml.g.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\proupdate.cshtml.g.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\ShowUser.cshtml.g.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Catgs\Create.cshtml.g.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Catgs\Delete.cshtml.g.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Catgs\Details.cshtml.g.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Catgs\Edit.cshtml.g.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Catgs\Index.cshtml.g.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\cookies\Login.cshtml.g.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\cookies\Logout.cshtml.g.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\cookies\registration.cshtml.g.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Home\contact.cshtml.g.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Roles\Create.cshtml.g.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Roles\Delete.cshtml.g.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Roles\Details.cshtml.g.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Roles\Edit.cshtml.g.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Roles\Index.cshtml.g.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Shared\Index.cshtml.g.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Shared\_Layout1.cshtml.g.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Shared\_nav.cshtml.g.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\User\cartshow.cshtml.g.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\User\checkout.cshtml.g.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\User\mypro.cshtml.g.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\User\profile.cshtml.g.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\User\showproducts.cshtml.g.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\dashboard.RazorTargetAssemblyInfo.cache
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\dashboard.RazorTargetAssemblyInfo.cs
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\dashboard.Views.pdb
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\dashboard.csproj.CopyComplete
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\dashboard.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\ref\dashboard.dll
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\dashboard.pdb
+C:\Users\asp\Desktop\9 Aug Database And E Project\dashboard\dashboard\obj\Debug\net5.0\dashboard.genruntimeconfig.cache
+C:\Users\asp\Desktop\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\cookies\changepassword.cshtml.g.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\appsettings.json
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\dashboard.exe
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\dashboard.deps.json
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\dashboard.runtimeconfig.json
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\dashboard.runtimeconfig.dev.json
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\dashboard.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\ref\dashboard.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\dashboard.pdb
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\dashboard.Views.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\dashboard.Views.pdb
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Humanizer.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.csproj.AssemblyReference.cache
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.AssemblyInfoInputs.cache
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.AssemblyInfo.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.csproj.CoreCompileInputs.cache
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.RazorAssemblyInfo.cache
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.RazorAssemblyInfo.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\staticwebassets\dashboard.StaticWebAssets.Manifest.cache
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\staticwebassets\dashboard.StaticWebAssets.xml
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\scopedcss\bundle\dashboard.styles.css
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.TagHelpers.input.cache
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.TagHelpers.output.cache
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.RazorCoreGenerate.cache
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\addpro.cshtml.g.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\addvisitors.cshtml.g.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\Delete.cshtml.g.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\Detail.cshtml.g.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\Detailuser.cshtml.g.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\Edit.cshtml.g.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\order.cshtml.g.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\orderDetail.cshtml.g.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\proDelete.cshtml.g.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\product.cshtml.g.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\proupdate.cshtml.g.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\ShowUser.cshtml.g.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Catgs\Create.cshtml.g.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Catgs\Delete.cshtml.g.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Catgs\Details.cshtml.g.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Catgs\Edit.cshtml.g.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Catgs\Index.cshtml.g.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\cookies\changepassword.cshtml.g.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\cookies\Login.cshtml.g.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\cookies\Logout.cshtml.g.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\cookies\registration.cshtml.g.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Home\contact.cshtml.g.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Roles\Create.cshtml.g.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Roles\Delete.cshtml.g.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Roles\Details.cshtml.g.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Roles\Edit.cshtml.g.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Roles\Index.cshtml.g.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Shared\Index.cshtml.g.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Shared\_Layout1.cshtml.g.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Shared\_nav.cshtml.g.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\User\cartshow.cshtml.g.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\User\checkout.cshtml.g.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\User\mypro.cshtml.g.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\User\profile.cshtml.g.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\User\showproducts.cshtml.g.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.RazorTargetAssemblyInfo.cache
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.RazorTargetAssemblyInfo.cs
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.Views.pdb
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.csproj.CopyComplete
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\ref\dashboard.dll
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.pdb
+C:\Users\asp\Desktop\10 Aug DATABASE AND E PROJECT\dashboard\dashboard\obj\Debug\net5.0\dashboard.genruntimeconfig.cache
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\appsettings.json
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\dashboard.exe
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\dashboard.deps.json
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\dashboard.runtimeconfig.json
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\dashboard.runtimeconfig.dev.json
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\dashboard.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\ref\dashboard.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\dashboard.pdb
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\dashboard.Views.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\dashboard.Views.pdb
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\Humanizer.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\dashboard.csproj.AssemblyReference.cache
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\dashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\dashboard.AssemblyInfoInputs.cache
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\dashboard.AssemblyInfo.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\dashboard.csproj.CoreCompileInputs.cache
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\dashboard.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\dashboard.RazorAssemblyInfo.cache
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\dashboard.RazorAssemblyInfo.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\staticwebassets\dashboard.StaticWebAssets.Manifest.cache
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\staticwebassets\dashboard.StaticWebAssets.xml
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\scopedcss\bundle\dashboard.styles.css
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\dashboard.TagHelpers.input.cache
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\dashboard.TagHelpers.output.cache
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\dashboard.RazorCoreGenerate.cache
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\addpro.cshtml.g.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\addvisitors.cshtml.g.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\Delete.cshtml.g.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\Detail.cshtml.g.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\Detailuser.cshtml.g.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\Edit.cshtml.g.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\order.cshtml.g.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\orderDetail.cshtml.g.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\proDelete.cshtml.g.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\product.cshtml.g.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\proupdate.cshtml.g.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Admin\ShowUser.cshtml.g.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Catgs\Create.cshtml.g.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Catgs\Delete.cshtml.g.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Catgs\Details.cshtml.g.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Catgs\Edit.cshtml.g.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Catgs\Index.cshtml.g.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\cookies\changepassword.cshtml.g.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\cookies\Login.cshtml.g.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\cookies\Logout.cshtml.g.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\cookies\registration.cshtml.g.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Home\contact.cshtml.g.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Roles\Create.cshtml.g.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Roles\Delete.cshtml.g.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Roles\Details.cshtml.g.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Roles\Edit.cshtml.g.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Roles\Index.cshtml.g.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Shared\Index.cshtml.g.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Shared\_Layout1.cshtml.g.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\Shared\_nav.cshtml.g.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\User\cartshow.cshtml.g.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\User\checkout.cshtml.g.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\User\mypro.cshtml.g.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\User\profile.cshtml.g.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\User\showproducts.cshtml.g.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\dashboard.RazorTargetAssemblyInfo.cache
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\dashboard.RazorTargetAssemblyInfo.cs
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\dashboard.Views.pdb
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\dashboard.csproj.CopyComplete
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\dashboard.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\ref\dashboard.dll
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\dashboard.pdb
+C:\Users\sajida\Downloads\Online_Shop\Online_Shop\project\dashboard\dashboard\obj\Debug\net5.0\dashboard.genruntimeconfig.cache

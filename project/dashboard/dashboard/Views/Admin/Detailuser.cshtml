@@ -1,0 +1,52 @@
+﻿@model dashboard.Models.Product
+
+@{
+    ViewData["Title"] = "Detailuser";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Namee)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Namee)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Picture)
+        </dt>
+        <dd class = "col-sm-10">
+
+            <img src="@Url.Content(Model.Picture)" alt="Random Name" width="155" height="155">
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Descp)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Descp)
+        </dd>
+        @*<dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Qty)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Qty)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Cat)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Cat.Id)
+        </dd>*@
+    </dl>
+</div>
+<div>
+  
+</div>

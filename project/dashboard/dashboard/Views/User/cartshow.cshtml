@@ -1,0 +1,110 @@
+﻿@model IEnumerable<dashboard.Models.Cart>
+
+@{
+    ViewData["Title"] = "cartshow";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@if (TempData["already"] != null)
+{
+    <h1>cartshow @TempData["already"].ToString()</h1>
+}
+
+
+
+
+<style>
+
+    .btn btn-info {
+        margin-top: 50px;
+    }
+
+
+    .table{
+        margin-top:12%;
+    }
+
+</style>
+
+
+
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Pro.Picture)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Pro.Namee)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Proprice)
+
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Qty)
+            </th>
+
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+
+                <td>
+                    <img src="@Url.Content(item.Pro.Picture)" alt="Random" width="90" height="90">
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Pro.Namee)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Proprice)
+                </td>
+                <td>
+                    <form method="post" asp-action="cartEdit">
+                        <input type="number" value="@item.Qty" name="qq" min="1" max="@item.Pro.Qty" />
+
+                        <input type="hidden" value="@item.Id" name="ii" />
+                        <input type="submit" value="Update" class="btn btn-danger" />
+
+                    </form>
+                </td>
+                <td>
+                    <form method="POST" asp-action="cartDelete">
+                        <input type="hidden" value="@item.Id" name="ij" />
+                        <input type="submit" value="Delete" class="btn btn-danger" />
+                    </form>
+                </td>
+            </tr>
+        }
+
+    <td>
+        @if (@ViewBag.Total != null)
+        {
+            <h6>Total: @ViewBag.Total</h6>
+        }
+
+    </td>
+
+
+
+
+
+
+
+    </tbody>
+
+
+
+
+
+    @TempData["min"]
+
+
+</table>
+
+
+<a  asp-action="checkout" asp-controller="User" class="btn btn-info">Checkout</a>

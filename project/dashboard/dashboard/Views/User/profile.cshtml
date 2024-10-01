@@ -1,0 +1,140 @@
+﻿@model IEnumerable<PurchasesViewModel>
+@{
+    ViewData["Title"] = "My Purchases";
+    bool havePastOrders = (bool)ViewData["HavePastOrders"];
+}
+
+
+
+@*<style>
+    .product-image {
+        width: 100px;
+        height: 100px;
+    }
+
+    table {
+        font-size: 14px;
+    }
+
+    .row-spacer {
+        height: 20px;
+    }
+
+    .product-cell {
+        width: 250px;
+    }
+</style>
+
+<br />
+<br />
+@if (havePastOrders)
+{
+    <div class="row">
+
+
+
+        <table class="col-sm-3">
+            @foreach (var group in Model) // Loop through each group
+            {
+                <tr>
+                    <td class="border border-dark product-cell">
+                        <table class="w-100">
+                            <tr><td class="p-1 text-center w-100"><img src="/@group.ImageLink.Substring(1)" class="border border-dark product-image" /></td></tr>
+                            <tr><td class="p-1 text-center font-weight-bold">@group.Name</td></tr>
+                            <tr><td class="p-1 text-center">@group.Description</td></tr>
+
+                        </table>
+                    </td>
+
+                </tr>
+                <tr><td class="row-spacer"></td></tr>
+            }
+        </table>
+    </div>
+}
+else
+{
+    <style>
+        .center_div {
+            position: absolute;
+            top: 30%;
+            left: 50%;
+            transform: translate(-50%,-50%);
+        }
+
+        .no_item_cart_description {
+            font-size: 26pt;
+            color: darkgrey;
+        }
+    </style>
+
+    <div class="center_div">
+        <p class="no_item_cart_description">You have no past purchases.</p>
+    </div>
+}*@
+
+
+
+
+
+
+<br /><br /><br />
+
+
+
+@if (havePastOrders)
+{
+
+    @foreach (var group in Model) // Loop through each group
+    {
+        
+        <div class="card">
+            <img src ="/@group.ImageLink.Substring(1)" alt="Avatar" style="width:100%">
+                <div class="container">
+                    <h4><b>@group.Name</b></h4>
+                    <p>@group.Description</p>
+                </div>
+        </div>
+
+    }
+}
+
+else
+{
+    <style>
+        .center_div {
+            position: absolute;
+            margin-top: 10%;
+            left: 50%;
+            transform: translate(-50%,-50%);
+        }
+
+        .no_item_cart_description {
+            font-size: 26pt;
+            color: darkgrey;
+        }
+    </style>
+
+    <div class="center_div">
+        <p class="no_item_cart_description">You have no past purchases.</p>
+    </div>
+}
+
+
+
+
+<style>
+    .card {
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+        transition: 0.3s;
+        width: 20%;
+    }
+
+        .card:hover {
+            box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+        }
+
+    .container {
+        padding: 2px 16px;
+    }
+</style>

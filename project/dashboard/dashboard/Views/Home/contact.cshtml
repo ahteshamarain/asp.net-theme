@@ -1,0 +1,95 @@
+﻿
+@{
+    ViewData["Title"] = "Contact";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+.
+
+<h1 style="text-align:center; margin-top:50px;">Contact US </h1>
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <img src="~/Image/icons8-whatsapp-100.png" />
+            <h6>(206) 342-8631</h6>
+        </div>
+        <div class="col-md-6">
+            <div class="grid-item">
+                <img src="~/Image/icons8-email-100.png" />
+                <h6>demo@gmail.com</h6>
+            </div>
+        </div>
+    </div>
+</div>
+
+<br /><br />
+
+
+<div class="container py-5 w">
+
+    <form class="p-md-5 border rounded-3 bg-body-tertiary" asp-action="contact" asp-controller="Home">
+
+        <!-- Name input -->
+
+        <div class="form-floating mb-3">
+
+            <input type="text" id="form4Example1" class="form-control" />
+
+            <label class="form-label" for="form4Example1">Name</label>
+
+        </div>
+
+
+
+        <!-- Email input -->
+
+        <div class="form-floating mb-3">
+
+            <input type="email" id="form4Example2" class="form-control" name="email" />
+
+            <label class="form-label" for="form4Example2">Email address</label>
+
+        </div>
+
+
+
+        <!-- Message input -->
+
+        <div class="form-floating mb-3">
+
+            <textarea class="form-control" id="form4Example3" rows="4" name="mes"></textarea>
+
+            <label class="form-label" for="form4Example3">Message</label>
+
+        </div>
+
+
+
+        <!-- Checkbox -->
+
+        <div class="form-check d-flex justify-content-left mb-3">
+
+            <input class="form-check-input me-2" type="checkbox" value="" id="form4Example4" checked />
+
+            <label class="form-check-label" for="form4Example4">
+
+                Send me a copy of this message
+
+            </label>
+
+        </div>
+
+
+
+        <!-- Submit button -->
+
+        <button type="submit" class="w-100 btn btn-lg btn-primary">Send</button>
+
+    </form>
+    @if (ViewBag != null)
+    {
+        @ViewBag.message
+    }
+
+</div>
